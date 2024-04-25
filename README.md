@@ -12,7 +12,7 @@ Currently learning MicroServices
 </div>
 <br>
 <a href="https://www.linkedin.com/in/sreeragpa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:catchsreerag@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-gmail?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:catchsreerag@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-gmail?style=for-the-badge&logo=Gmail&logoColor=white"/GMAIL</a>
 <!-- <a href="" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-FF6C37?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> -->
