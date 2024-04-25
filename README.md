@@ -5,7 +5,7 @@
 I am a Self Taught MEAN Stack Developer 
 </div>
 <div align="center">
-Learning new Technologies
+Exploring and unlocking new Technologies
 </div>
 <div align="center">
 Currently learning MicroServices
@@ -33,7 +33,7 @@ Currently learning MicroServices
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <!--
-## Reach Me
+## Let's Connect and Innovate Together!
 ![MAIL](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 --->
 </div>
