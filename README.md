@@ -1,14 +1,14 @@
-- <div align="center">
+<div align="center">
 <h1 align="center">𝙃𝙞𝙞, 𝙄 𝙖𝙢 Sreerag PA<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<div align="left">
-- I am a Self Taught MEAN Stack Developer 
+<div align="center">
+I am a Self Taught MEAN Stack Developer 
 </div>
-<div align="left">
-- Learning new Technologies
+<div align="center">
+Learning new Technologies
 </div>
-<div align="left">
-- Currently learning MicroServices
+<div align="center">
+Currently learning MicroServices
 </div>
 <br>
 <a href="https://www.linkedin.com/in/sreeragpa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
