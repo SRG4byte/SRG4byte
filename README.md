@@ -11,7 +11,7 @@
 - 𝘼𝙡𝙬𝙖𝙮𝙨 𝙠𝙚𝙚𝙣 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙖𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥 𝙣𝙚𝙬 𝙩𝙝𝙞𝙣𝙜𝙨.
 </div>
 <br>
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sreeragpa/)](https://www.linkedin.com/in/sreeragpa/)
+![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sreeragpa/)](https://www.linkedin.com/in/sreeragpa/)
 <a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-FF6C37?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
