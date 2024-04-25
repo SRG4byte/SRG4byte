@@ -1,5 +1,5 @@
 - <div align="center">
-<h1 align="center">𝙃𝙞𝙞, 𝙞 𝙖𝙢  Sreerag PA<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">𝙃𝙞𝙞, 𝙄 𝙖𝙢 Sreerag PA<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <div align="left">
 - I am a Self Taught MEAN Stack Developer 
@@ -16,7 +16,7 @@
 <a href="" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-FF6C37?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> -->
 
-## 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠 
+## Technology Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -28,7 +28,6 @@
 ![Angular](https://img.shields.io/badge/Angular-FF6C37?style=for-the-badge&logo=angular&logoColor=white)
 ![NGRX](https://img.shields.io/badge/NGRX-%23593d88.svg?style=for-the-badge&logo=ngrx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSONwebtokens)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
