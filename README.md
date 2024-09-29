@@ -8,7 +8,7 @@ I am a Self Taught MEAN Stack Developer
 Exploring and unlocking new Technologies
 </div>
 <div align="center">
-Currently learning MicroServices
+Currently learning NestJS
 </div>
 <br>
 <a href="https://www.linkedin.com/in/sreeragpa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
